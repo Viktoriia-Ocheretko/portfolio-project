@@ -1,0 +1,16 @@
+
+/*font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif;*/
+
+
+h1{
+    color: brown;
+    font-family: 'Playfair Display', serif;
+    margin-left: 20px;
+}
+
+h2{
+    color: brown;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 20px;
+}
