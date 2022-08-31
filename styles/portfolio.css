@@ -143,13 +143,15 @@ nav li {
 }
 
 nav a {
+    text-decoration: none;
     color: rgb(51, 43, 43);
     transition: all 100ms ease-in-out;
 }
 
-nav a:hover{
+nav a:hover,
+nav li.active a {
     color: var(--branding-color);
-    text-decoration: none;
+    
 }
 
 
